@@ -7,11 +7,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// type Data struct {
-// 	Ping  string `json:"ping"`
-// 	Hello string `json:"Hello"`
-// }
-
 func main() {
 	server := gin.Default()
 
